@@ -6,4 +6,4 @@ function addTwoDigits(n: any): number {
     });
 }
 
- console.log(addTwoDigits(29));
+ console.log(addTwoDigits(20));
